@@ -2,15 +2,6 @@
 
 This is my solution to [snake-fury Haskell challenge](https://github.com/lsmor/snake-fury).
 
-- [snake-fury](#snake-fury)
-  - [Introduction](#introduction)
-    - [note about not using monads](#note-about-not-using-monads)
-  - [Start coding: Building a MVP](#start-coding-building-a-mvp)
-  - [Continue coding: Refactors](#continue-coding-refactors)
-  - [Solution branches](#solution-branches)
-  - [Architecture](#architecture)
-  - [Contributions and Feedback](#contributions-and-feedback)
-
 ## Run
 
 ```bash
